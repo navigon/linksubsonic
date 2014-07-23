@@ -1,5 +1,5 @@
 /* URL de  Subsonic sur le serveur */
-var url = 'xx.xx.xx.xx:xxxx';
+var url = 'http://xx.xx.xx.xx:xxxx';
 
 plugin.loadLang(true);
 if (theWebUI.theme) {
