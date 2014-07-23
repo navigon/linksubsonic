@@ -7,6 +7,6 @@ Configuration
 
 <code> /var/www/rutorrent/plugins/linksubsonic/init.js 
 
- modifier xx.xx.xx.xx:xxxx par l'url subsonic de son serveur 
+ modifier http://xx.xx.xx.xx:xxxx par l'url subsonic de son serveur 
 
-<code> var url = 'xx.xx.xx.xx:xxxx';
+<code> var url = 'http://xx.xx.xx.xx:xxxx';
