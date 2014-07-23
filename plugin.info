@@ -1,0 +1,6 @@
+plugin.description: Subsonic plugin
+plugin.author: Dude 
+plugin.runlevel: 11
+plugin.version: 1.00
+need_rtorrent: 0
+plugin.help: http://mondedie.fr

@@ -1,0 +1,1 @@
+theUILang.linksubsonic = "Subsonic";
